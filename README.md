@@ -1,4 +1,4 @@
 # Git and Github Learning
-Some description  
+Some description.  
 
-More description
+More description.
