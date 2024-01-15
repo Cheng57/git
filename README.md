@@ -5,7 +5,6 @@ More description.
 
 Learning Git and Github.   
 
-More description.  
 
 
 
