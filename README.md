@@ -7,5 +7,5 @@ Learning Git and Github.
 
 More description.  
 
-Watch Git and Github tutorial.
+
 
