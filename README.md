@@ -3,7 +3,6 @@ Some description.
 
 More description.   
 
-Learning Git and Github.   
 
 
 
